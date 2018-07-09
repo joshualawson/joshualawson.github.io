@@ -11,8 +11,6 @@ tags:
   - kge
   - opengl
 ---
-# Koron Game Engine
-
 Ever since I started programming it has always been a dream of mine to build games, although I am a web dev I have in the past made some simple
 games in different languages, such as Java, Rust and C++ but nothing notable and mostly following tutorials I have found on the web and adjusting 
 what I followed to fit what I wanted.
