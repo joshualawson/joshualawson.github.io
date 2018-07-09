@@ -1,9 +1,9 @@
 ---
 title: "Koron Game Engine"
 categories:
-  - KGE
+  - Programming
   - Go
-  - Gaming
+  - KGE
 tags:
   - gaming
   - go
