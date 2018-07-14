@@ -1,9 +1,9 @@
 ---
-title: "Koron Game Engine"
+title: "Koron Engine"
 categories:
   - Programming
   - Go
-  - KGE
+  - KE
 tags:
   - gaming
   - go
@@ -28,11 +28,11 @@ most of my time would be spent relearning the language, and I didn't really have
 Once I gave up on Rust I decided to do some more research into using Go, finding that their were not many game dev resources for Go as not many have
 used go for game dev, I made the bold choice that I would pave the way myself and give it a crack.
 
-So day one of KGE was mostly spent using the opengl and glfw library to get a basic window up, once I was happy with that I started neatening my package
+So day one of KE was mostly spent using the opengl and glfw library to get a basic window up, once I was happy with that I started neatening my package
 up to make everything easy to initialise for game devs from there I moved on to doing some research into what are the industry "standard" for models and animations etc.
 I decided I would support two model types, the OBJ spec and the COLLADA spec.
 
-Most of my recent time spent on KGE has been implementing the OBJ spec so that I can start reading/parsing .obj files into memory for use with OpenGL
+Most of my recent time spent on KE has been implementing the OBJ spec so that I can start reading/parsing .obj files into memory for use with OpenGL
 so keep an eye on this space as I dare say my next post will be in a bit more detail about implementing the OBJ parser and hopefully have some models
 loaded up into my game engine!
 
